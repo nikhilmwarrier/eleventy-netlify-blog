@@ -1,6 +1,7 @@
 ---
-title: This is the third example post which has a slightly longer title than the others
-date: 2020-01-01
+title: This is the third example post which has a slightly longer title than the
+  others
+date: 2021-01-10T08:33:19.991Z
 author: Jane Doe
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
